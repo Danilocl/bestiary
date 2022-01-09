@@ -1,4 +1,4 @@
-package com.example.apiAuth;
+package com.example.bestiary;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
