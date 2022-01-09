@@ -1,4 +1,4 @@
-package com.br.bestiary.util;
+package com.br.bestiary.enums;
 
 public enum MessangerErrorEnum {
 

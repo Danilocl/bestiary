@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.br.bestiary.Exception.ControllerException;
+import com.br.bestiary.enums.MessangerErrorEnum;
 import com.br.bestiary.model.Beast;
 import com.br.bestiary.service.BestiaryService;
-import com.br.bestiary.util.MessangerErrorEnum;
 
 import io.swagger.v3.oas.annotations.Operation;
 
